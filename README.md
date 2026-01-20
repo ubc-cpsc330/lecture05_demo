@@ -1,4 +1,4 @@
-# Lecture 6 Demo: Pipelines
+# Lecture 5 Demo: Pipelines
 
 You can use this repository as a template to create a repository for yourself so you can follow along with the Lecture demo.
 
